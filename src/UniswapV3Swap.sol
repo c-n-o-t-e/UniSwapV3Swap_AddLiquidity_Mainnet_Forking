@@ -2,7 +2,6 @@
 pragma solidity 0.8.19;
 
 import "./Interfaces/IERC20.sol";
-import "./Interfaces/IWETH.sol";
 import "./Interfaces/ISwapRouter.sol";
 
 contract UniswapV3Swap {
