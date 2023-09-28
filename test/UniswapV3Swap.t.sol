@@ -16,7 +16,38 @@ contract UniswapV3SwapTest is Test {
     IERC20 private dai = IERC20(DAI);
     IERC20 private usdc = IERC20(USDC);
 
-    UniswapV3Swap private uni = new UniswapV3Swap();
+    UniswapV3Swap private uni;
 
-    function setUp() public {}
+    function setUp() public {
+        uni = new UniswapV3Swap();
+    }
+
+    function testSingleHop() public {
+        weth.deposit{value: 1 ether}();
+        weth.approve(address(uni), 1 ether);
+
+        uint amountOut = uni.swapExactInputSingleHop(WETH, DAI, 3000, 1 ether);
+
+        console.log("DAI", amountOut);
+    }
+
+    function testMultiHop() public {
+        weth.deposit{value: 1 ether}();
+        weth.approve(address(uni), 1 ether);
+
+        bytes memory path = abi.encodePacked(
+            WETH,
+            uint24(3000),
+            USDC,
+            uint24(100),
+            DAI
+        );
+
+        uint amountOut = uni.swapExactInputMultiHop(path, WETH, 1 ether);
+
+        console.log("DAI", amountOut);
+    }
 }
+
+// FORK_URL=https://eth-mainnet.g.alchemy.com/v2/your-id
+// forge test -vv --gas-report --fork-url $FORK_URL --match-path test/UniswapV3Swap.test.sol
