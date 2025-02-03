@@ -1,0 +1,486 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1215pt" height="1247pt" viewBox="0.00 0.00 1214.52 1247">
+<g id="graph0" class="graph" transform="translate(-15.95468933044549,1874.7274776099746) scale(1.7517537920778337)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1243 1210.52,-1243 1210.52,4 -4,4"/>
+<g id="clust3" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="46.83,-1102 46.83,-1231 521.31,-1231 521.31,-1102 46.83,-1102"/>
+<text text-anchor="middle" x="284.07" y="-1214.4" font-family="Times,serif" font-size="14.00">Legend</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterILaunchFactory">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M770.68,-8C770.68,-8 1168.79,-8 1168.79,-8 1174.79,-8 1180.79,-14 1180.79,-20 1180.79,-20 1180.79,-235 1180.79,-235 1180.79,-241 1174.79,-247 1168.79,-247 1168.79,-247 770.68,-247 770.68,-247 764.68,-247 758.68,-241 758.68,-235 758.68,-235 758.68,-20 758.68,-20 758.68,-14 764.68,-8 770.68,-8"/>
+<text text-anchor="middle" x="969.74" y="-230.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">ILaunchFactory</text>
+</g>
+<g id="clust1" class="cluster" data-name="clusterNewLaunch">
+
+<path fill="#445773" stroke="#445773" d="M20,-255C20,-255 1186.52,-255 1186.52,-255 1192.52,-255 1198.52,-261 1198.52,-267 1198.52,-267 1198.52,-1082 1198.52,-1082 1198.52,-1088 1192.52,-1094 1186.52,-1094 1186.52,-1094 20,-1094 20,-1094 14,-1094 8,-1088 8,-1082 8,-1082 8,-267 8,-267 8,-261 14,-255 20,-255"/>
+<text text-anchor="middle" x="603.26" y="-1077.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">NewLaunch</text>
+</g>
+<!-- NewLaunch.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="NewLaunch.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="119.83" cy="-1043" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-1038.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- NewLaunch._disableInitializers -->
+<g id="node11" class="node" pointer-events="visible" data-name="NewLaunch._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-1043" rx="84.52" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-1038.8" font-family="Times,serif" font-size="14.00">_disableInitializers</text>
+</g>
+<!-- NewLaunch.&lt;Constructor&gt;&#45;&gt;NewLaunch._disableInitializers -->
+<g id="edge1" class="edge" data-name="NewLaunch.&lt;Constructor&gt;-&gt;NewLaunch._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M188.53,-1043C244.48,-1043 324.65,-1043 387.57,-1043"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="387.28,-1046.5 397.28,-1043 387.28,-1039.5 387.28,-1046.5"/>
+</g>
+<!-- NewLaunch.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="NewLaunch.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="119.83" cy="-989" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-984.8" font-family="Times,serif" font-size="14.00">initialize</text>
+</g>
+<!-- NewLaunch.ILaunchFactory -->
+<g id="node12" class="node" pointer-events="visible" data-name="NewLaunch.ILaunchFactory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-989" rx="72.92" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-984.8" font-family="Times,serif" font-size="14.00">ILaunchFactory</text>
+</g>
+<!-- NewLaunch.initialize&#45;&gt;NewLaunch.ILaunchFactory -->
+<g id="edge2" class="edge" data-name="NewLaunch.initialize-&gt;NewLaunch.ILaunchFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M165.89,-989C223.92,-989 326.01,-989 399.16,-989"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="398.99,-992.5 408.99,-989 398.99,-985.5 398.99,-992.5"/>
+</g>
+<!-- NewLaunch.onlyFactory -->
+<g id="node3" class="node" pointer-events="visible" data-name="NewLaunch.onlyFactory">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="182.25,-923.54 182.25,-938.46 145.68,-949 93.97,-949 57.41,-938.46 57.41,-923.54 93.97,-913 145.68,-913 182.25,-923.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="186.25,-920.53 186.25,-941.47 146.25,-953 93.41,-953 53.41,-941.47 53.41,-920.53 93.41,-909 146.25,-909 186.25,-920.53"/>
+<text text-anchor="middle" x="119.83" y="-926.8" font-family="Times,serif" font-size="14.00">onlyFactory</text>
+</g>
+<!-- NewLaunch.NewLaunch_Caller_Not_Factory -->
+<g id="node13" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Caller_Not_Factory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-935" rx="140.09" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-930.8" font-family="Times,serif" font-size="14.00">NewLaunch_Caller_Not_Factory</text>
+</g>
+<!-- NewLaunch.onlyFactory&#45;&gt;NewLaunch.NewLaunch_Caller_Not_Factory -->
+<g id="edge3" class="edge" data-name="NewLaunch.onlyFactory-&gt;NewLaunch.NewLaunch_Caller_Not_Factory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M187.68,-931.73C228.32,-932.18 281.96,-932.77 332.5,-933.32"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="332.21,-936.82 342.25,-933.43 332.29,-929.82 332.21,-936.82"/>
+</g>
+<!-- NewLaunch.setMaxAllowedPerUser -->
+<g id="node4" class="node" pointer-events="visible" data-name="NewLaunch.setMaxAllowedPerUser">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="119.83" cy="-873" rx="103.66" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-868.8" font-family="Times,serif" font-size="14.00">setMaxAllowedPerUser</text>
+</g>
+<!-- NewLaunch.NewLaunch_Above_MaxPercentage -->
+<g id="node14" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Above_MaxPercentage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-881" rx="153.88" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-876.8" font-family="Times,serif" font-size="14.00">NewLaunch_Above_MaxPercentage</text>
+</g>
+<!-- NewLaunch.setMaxAllowedPerUser&#45;&gt;NewLaunch.NewLaunch_Above_MaxPercentage -->
+<g id="edge4" class="edge" data-name="NewLaunch.setMaxAllowedPerUser-&gt;NewLaunch.NewLaunch_Above_MaxPercentage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.81,-875.26C253.83,-875.92 287.4,-876.66 320.23,-877.38"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="320.15,-880.88 330.22,-877.6 320.3,-873.88 320.15,-880.88"/>
+</g>
+<!-- NewLaunch.maxAmountAllowedForOneUser -->
+<g id="node5" class="node" pointer-events="visible" data-name="NewLaunch.maxAmountAllowedForOneUser">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-827" rx="140.12" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-822.8" font-family="Times,serif" font-size="14.00">maxAmountAllowedForOneUser</text>
+</g>
+<!-- NewLaunch.stakeCurationToken -->
+<g id="node6" class="node" pointer-events="visible" data-name="NewLaunch.stakeCurationToken">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="119.83" cy="-700" rx="89.19" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-695.8" font-family="Times,serif" font-size="14.00">stakeCurationToken</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.maxAmountAllowedForOneUser -->
+<g id="edge10" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.maxAmountAllowedForOneUser">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M147.31,-718.57C173.57,-740.07 216.07,-774.01 259.66,-791 290.16,-802.89 324.6,-809.91 357.22,-814.27"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="356.74,-817.74 367.1,-815.5 357.6,-810.79 356.74,-817.74"/>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.maxAmountAllowedForOneUser -->
+<g id="edge11" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.maxAmountAllowedForOneUser">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M134.37,-718.97C157.68,-744.77 207.9,-788.83 259.66,-809 283.01,-818.1 308.66,-824.35 334.04,-828.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="333.47,-831.91 343.87,-829.92 334.5,-824.99 333.47,-831.91"/>
+</g>
+<!-- NewLaunch.triggerLaunchState -->
+<g id="node8" class="node" pointer-events="visible" data-name="NewLaunch.triggerLaunchState">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-443" rx="85.09" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-438.8" font-family="Times,serif" font-size="14.00">triggerLaunchState</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.triggerLaunchState -->
+<g id="edge5" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.triggerLaunchState">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M145.64,-681.66C169.06,-663.07 203.51,-632.24 223.66,-598 253.63,-547.07 214.76,-508.42 259.66,-470 297.88,-437.29 354.01,-430.47 400.72,-431.86"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="400.45,-435.35 410.6,-432.31 400.77,-428.35 400.45,-435.35"/>
+</g>
+<!-- NewLaunch.NewLaunch_Zero_Amount -->
+<g id="node15" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Zero_Amount">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-625" rx="117.54" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-620.8" font-family="Times,serif" font-size="14.00">NewLaunch_Zero_Amount</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.NewLaunch_Zero_Amount -->
+<g id="edge6" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.NewLaunch_Zero_Amount">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.57,-686.68C245.15,-674.42 333.92,-656.15 399.41,-642.68"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="399.71,-646.19 408.8,-640.74 398.3,-639.33 399.71,-646.19"/>
+</g>
+<!-- NewLaunch.NewLaunch_Too_Early_To_Stake -->
+<g id="node16" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Too_Early_To_Stake">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-719" rx="146.38" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-714.8" font-family="Times,serif" font-size="14.00">NewLaunch_Too_Early_To_Stake</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.NewLaunch_Too_Early_To_Stake -->
+<g id="edge7" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.NewLaunch_Too_Early_To_Stake">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.67,-704.53C246.09,-706.53 292.39,-708.94 336.08,-711.22"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="335.74,-714.71 345.91,-711.73 336.1,-707.72 335.74,-714.71"/>
+</g>
+<!-- NewLaunch.NewLaunch_Too_Late_To_Stake -->
+<g id="node17" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Too_Late_To_Stake">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-773" rx="142.37" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-768.8" font-family="Times,serif" font-size="14.00">NewLaunch_Too_Late_To_Stake</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.NewLaunch_Too_Late_To_Stake -->
+<g id="edge9" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.NewLaunch_Too_Late_To_Stake">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M164.27,-716.9C191.33,-726.79 227.07,-738.73 259.66,-746 288.8,-752.5 320.44,-757.52 350.55,-761.36"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="349.99,-764.82 360.34,-762.57 350.84,-757.87 349.99,-764.82"/>
+</g>
+<!-- NewLaunch.IERC20 -->
+<g id="node18" class="node" pointer-events="visible" data-name="NewLaunch.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-497" rx="42.88" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-492.8" font-family="Times,serif" font-size="14.00">IERC20</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge12" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.1,-695C224.5,-694 242.66,-692.96 259.66,-692 360.38,-686.32 617.22,-698.82 712.96,-667 805.67,-636.19 896.7,-562.4 940.96,-522.93"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="943.11,-525.7 948.18,-516.4 938.42,-520.51 943.11,-525.7"/>
+</g>
+<!-- ILaunchFactory.getLaunchStatus -->
+<g id="node26" class="node" pointer-events="visible" data-name="ILaunchFactory.getLaunchStatus">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-34" rx="75.3" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-29.8" font-family="Times,serif" font-size="14.00">getLaunchStatus</text>
+</g>
+<!-- NewLaunch.stakeCurationToken&#45;&gt;ILaunchFactory.getLaunchStatus -->
+<g id="edge8" class="edge" data-name="NewLaunch.stakeCurationToken-&gt;ILaunchFactory.getLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M147.88,-681.66C172.23,-663.51 206.71,-633.38 223.66,-598 256.87,-528.69 207.68,-310.62 259.66,-254 398.4,-102.89 558.26,-301.73 712.96,-167 750.47,-134.32 710.36,-92.39 748.96,-61 787.65,-29.53 843.58,-23.02 889.33,-24.26"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="889.08,-27.75 899.23,-24.69 889.39,-20.76 889.08,-27.75"/>
+</g>
+<!-- NewLaunch.unstakeCurationToken -->
+<g id="node7" class="node" pointer-events="visible" data-name="NewLaunch.unstakeCurationToken">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="119.83" cy="-571" rx="99" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-566.8" font-family="Times,serif" font-size="14.00">unstakeCurationToken</text>
+</g>
+<!-- NewLaunch.unstakeCurationToken&#45;&gt;NewLaunch.triggerLaunchState -->
+<g id="edge13" class="edge" data-name="NewLaunch.unstakeCurationToken-&gt;NewLaunch.triggerLaunchState">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M140.01,-551.97C165.13,-528.34 211.66,-488.84 259.66,-470 299.59,-454.33 346.31,-447.1 386.85,-443.96"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="387.01,-447.46 396.75,-443.29 386.54,-440.48 387.01,-447.46"/>
+</g>
+<!-- NewLaunch.unstakeCurationToken&#45;&gt;NewLaunch.NewLaunch_Zero_Amount -->
+<g id="edge14" class="edge" data-name="NewLaunch.unstakeCurationToken-&gt;NewLaunch.NewLaunch_Zero_Amount">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M188.44,-585.18C211.03,-589.64 236.37,-594.35 259.66,-598 296.44,-603.77 336.77,-608.95 373.03,-613.2"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="372.33,-616.64 382.67,-614.32 373.14,-609.69 372.33,-616.64"/>
+</g>
+<!-- NewLaunch.unstakeCurationToken&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge17" class="edge" data-name="NewLaunch.unstakeCurationToken-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M144.14,-589.87C170.39,-609.81 215.21,-639.98 259.66,-652 356.9,-678.29 615.94,-679.1 712.96,-652 803.7,-626.65 894.31,-559.36 939.39,-522.33"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="941.56,-525.07 947,-515.98 937.08,-519.69 941.56,-525.07"/>
+</g>
+<!-- NewLaunch.NewLaunch_Launch_Was_Successful_Or_Still_Active -->
+<g id="node19" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Launch_Was_Successful_Or_Still_Active">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-571" rx="226.8" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-566.8" font-family="Times,serif" font-size="14.00">NewLaunch_Launch_Was_Successful_Or_Still_Active</text>
+</g>
+<!-- NewLaunch.unstakeCurationToken&#45;&gt;NewLaunch.NewLaunch_Launch_Was_Successful_Or_Still_Active -->
+<g id="edge16" class="edge" data-name="NewLaunch.unstakeCurationToken-&gt;NewLaunch.NewLaunch_Launch_Was_Successful_Or_Still_Active">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.94,-571C228.16,-571 236.66,-571 245.36,-571"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="245.2,-574.5 255.2,-571 245.2,-567.5 245.2,-574.5"/>
+</g>
+<!-- NewLaunch.unstakeCurationToken&#45;&gt;ILaunchFactory.getLaunchStatus -->
+<g id="edge15" class="edge" data-name="NewLaunch.unstakeCurationToken-&gt;ILaunchFactory.getLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M137.36,-551.95C160.57,-524.11 202.36,-469.74 223.66,-416 258.71,-327.56 194.32,-274.14 259.66,-205 401.63,-54.77 534.8,-205.81 712.96,-101 733.57,-88.87 727.74,-72.05 748.96,-61 789.36,-39.96 839.44,-32.61 881.6,-30.79"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="881.49,-34.3 891.38,-30.49 881.27,-27.3 881.49,-34.3"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge23" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M570.89,-447.11C670.47,-456.04 833.76,-474.65 916.77,-486.79"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="916.22,-490.24 926.63,-488.26 917.26,-483.32 916.22,-490.24"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge24" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M553.49,-455.25C648.83,-468.61 823.16,-488.06 912.57,-495.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="912.13,-498.7 922.37,-495.98 912.67,-491.72 912.13,-498.7"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.getLaunchStatus -->
+<g id="edge18" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.getLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M569.16,-448.52C617.61,-450.17 676.46,-444.16 712.96,-407 768.52,-350.43 693.48,-108.66 748.96,-52 790.27,-9.8 861.15,-8.52 911.23,-16.2"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="910.37,-19.6 920.82,-17.87 911.57,-12.71 910.37,-19.6"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.getLaunchStatus -->
+<g id="edge25" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.getLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M534.35,-459.21C585.81,-469.21 667.06,-471.73 712.96,-425 768.52,-368.43 693.48,-126.66 748.96,-70 782.81,-35.42 836.5,-28.32 882.35,-28.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="882.23,-32.46 892.33,-29.26 882.44,-25.47 882.23,-32.46"/>
+</g>
+<!-- ILaunchFactory.updateLaunchStatus -->
+<g id="node27" class="node" pointer-events="visible" data-name="ILaunchFactory.updateLaunchStatus">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-142" rx="89.19" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-137.8" font-family="Times,serif" font-size="14.00">updateLaunchStatus</text>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.updateLaunchStatus -->
+<g id="edge19" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.updateLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M569.97,-447.99C617.94,-449.28 676.01,-443.01 712.96,-407 792.4,-329.57 669.63,-237.56 748.96,-160 789.71,-120.16 856.97,-117.4 906.37,-123.9"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="905.74,-127.34 916.16,-125.38 906.8,-120.42 905.74,-127.34"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.updateLaunchStatus -->
+<g id="edge22" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.updateLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M534.9,-459.01C586.07,-468.52 666.34,-470.44 712.96,-425 792.4,-347.57 669.63,-255.56 748.96,-178 780.03,-147.62 826.52,-138.8 868.76,-137.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="868.71,-141.16 878.68,-137.56 868.64,-134.16 868.71,-141.16"/>
+</g>
+<!-- ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod -->
+<g id="node28" class="node" pointer-events="visible" data-name="ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-88" rx="203.11" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-83.8" font-family="Times,serif" font-size="14.00">updateLaunchStakedAmountAfterCurationPeriod</text>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod -->
+<g id="edge20" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod">
+
+<path fill="none" stroke="white" stroke-width="2" d="M569.47,-448.3C617.73,-449.81 676.27,-443.69 712.96,-407 808.22,-311.73 653.84,-201.42 748.96,-106 785.62,-69.21 844.81,-63.74 892.53,-68.09"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="892,-71.55 902.33,-69.18 892.78,-64.6 892,-71.55"/>
+</g>
+<!-- NewLaunch.triggerLaunchState&#45;&gt;ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod -->
+<g id="edge21" class="edge" data-name="NewLaunch.triggerLaunchState-&gt;ILaunchFactory.updateLaunchStakedAmountAfterCurationPeriod">
+
+<path fill="none" stroke="white" stroke-width="2" d="M534.66,-459.14C586,-468.93 666.78,-471.17 712.96,-425 808.22,-329.73 653.84,-219.42 748.96,-124 757.77,-115.16 767.88,-108.13 778.82,-102.57" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="780.07,-105.84 787.75,-98.54 777.19,-99.46 780.07,-105.84"/>
+</g>
+<!-- NewLaunch.claimLaunchToken -->
+<g id="node9" class="node" pointer-events="visible" data-name="NewLaunch.claimLaunchToken">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="119.83" cy="-389" rx="86.23" ry="18"/>
+<text text-anchor="middle" x="119.83" y="-384.8" font-family="Times,serif" font-size="14.00">claimLaunchToken</text>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.triggerLaunchState -->
+<g id="edge26" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.triggerLaunchState">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M183.89,-402.27C207.58,-406.99 234.79,-412.1 259.66,-416 303.89,-422.94 353.26,-429.03 394.5,-433.66"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="393.98,-437.13 404.3,-434.75 394.75,-430.17 393.98,-437.13"/>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.NewLaunch_Zero_Amount -->
+<g id="edge27" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.NewLaunch_Zero_Amount">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.36,-407.9C167.46,-459.29 259.36,-597.81 259.66,-598 289.06,-616.1 324.72,-624.98 358.94,-628.83"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="358.16,-632.27 368.45,-629.74 358.83,-625.3 358.16,-632.27"/>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge32" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.12,-408.23C154.43,-439.54 201.56,-500.41 259.66,-524 352.99,-561.9 612.36,-529.29 712.96,-524 782.9,-520.32 863.15,-511.01 914.82,-504.36"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="915.18,-507.84 924.64,-503.08 914.27,-500.9 915.18,-507.84"/>
+</g>
+<!-- NewLaunch.NewLaunch_Launch_Not_Successful_Or_Still_Active -->
+<g id="node20" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Launch_Not_Successful_Or_Still_Active">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-389" rx="223.95" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-384.8" font-family="Times,serif" font-size="14.00">NewLaunch_Launch_Not_Successful_Or_Still_Active</text>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.NewLaunch_Launch_Not_Successful_Or_Still_Active -->
+<g id="edge29" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.NewLaunch_Launch_Not_Successful_Or_Still_Active">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.21,-389C220.15,-389 233.99,-389 248.34,-389"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="248.04,-392.5 258.04,-389 248.04,-385.5 248.04,-392.5"/>
+</g>
+<!-- NewLaunch.NewLaunch_Liquidity_Not_Added_To_Dex_Yet -->
+<g id="node21" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Liquidity_Not_Added_To_Dex_Yet">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-281" rx="204.27" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-276.8" font-family="Times,serif" font-size="14.00">NewLaunch_Liquidity_Not_Added_To_Dex_Yet</text>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.NewLaunch_Liquidity_Not_Added_To_Dex_Yet -->
+<g id="edge30" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.NewLaunch_Liquidity_Not_Added_To_Dex_Yet">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M145.41,-370.42C172.04,-351.35 216.53,-322.46 259.66,-308 275.23,-302.78 291.71,-298.54 308.39,-295.1"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="309.04,-298.54 318.19,-293.2 307.71,-291.67 309.04,-298.54"/>
+</g>
+<!-- NewLaunch.ICurationToken -->
+<g id="node22" class="node" pointer-events="visible" data-name="NewLaunch.ICurationToken">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="486.31" cy="-335" rx="72.94" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-330.8" font-family="Times,serif" font-size="14.00">ICurationToken</text>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;NewLaunch.ICurationToken -->
+<g id="edge31" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;NewLaunch.ICurationToken">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M183.89,-375.73C207.58,-371.01 234.79,-365.9 259.66,-362 307.45,-354.5 361.22,-347.99 404.28,-343.25"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.42,-346.75 413.99,-342.19 403.67,-339.79 404.42,-346.75"/>
+</g>
+<!-- NewLaunch.claimLaunchToken&#45;&gt;ILaunchFactory.getLaunchStatus -->
+<g id="edge28" class="edge" data-name="NewLaunch.claimLaunchToken-&gt;ILaunchFactory.getLaunchStatus">
+
+<path fill="none" stroke="white" stroke-width="2" d="M126,-369.8C139.46,-323.76 180.19,-206.81 259.66,-151 451.61,-16.18 744.06,-16.28 885.87,-25.84"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="885.46,-29.32 895.68,-26.55 885.96,-22.34 885.46,-29.32"/>
+</g>
+<!-- NewLaunch.addLiquidity -->
+<g id="node10" class="node" pointer-events="visible" data-name="NewLaunch.addLiquidity">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="486.31" cy="-497" rx="60.85" ry="18"/>
+<text text-anchor="middle" x="486.31" y="-492.8" font-family="Times,serif" font-size="14.00">addLiquidity</text>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge37" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.98,-479.94C598.94,-458.37 839.2,-457.71 931.77,-477.96"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="930.83,-481.33 941.38,-480.36 932.53,-474.54 930.83,-481.33"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge38" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M533.91,-484.41C625.45,-474.25 827.89,-474.2 920.63,-484.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="920.14,-487.72 930.49,-485.44 920.98,-480.77 920.14,-487.72"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge40" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M546.82,-492.37C640.82,-489.5 822.31,-489.54 913.54,-492.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="913.18,-496 923.3,-492.86 913.43,-489 913.18,-496"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge41" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M546.82,-501.63C640.82,-504.5 822.31,-504.46 913.54,-501.49" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="913.43,-505 923.3,-501.14 913.18,-498 913.43,-505"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge42" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M533.91,-509.59C625.45,-519.75 827.89,-519.8 920.63,-509.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="920.98,-513.23 930.49,-508.56 920.14,-506.28 920.98,-513.23"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.IERC20 -->
+<g id="edge43" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.98,-514.06C598.94,-535.63 839.2,-536.29 931.77,-516.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="932.53,-519.46 941.38,-513.64 930.83,-512.67 932.53,-519.46"/>
+</g>
+<!-- NewLaunch.NewLaunch_Invalid_Token -->
+<g id="node23" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Invalid_Token">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-335" rx="119.82" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-330.8" font-family="Times,serif" font-size="14.00">NewLaunch_Invalid_Token</text>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.NewLaunch_Invalid_Token -->
+<g id="edge33" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.NewLaunch_Invalid_Token">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M548.24,-499.02C597.97,-501.22 667.24,-498.28 712.96,-461 752.17,-429.03 709.79,-385.04 748.96,-353 788.39,-320.74 845.91,-314.65 892.21,-317.52"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="891.68,-320.99 901.93,-318.31 892.24,-314.01 891.68,-320.99"/>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.NewLaunch_Invalid_Token -->
+<g id="edge34" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.NewLaunch_Invalid_Token">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M529.87,-510.77C579.49,-519.41 661.28,-521.14 712.96,-479 752.17,-447.03 709.79,-403.04 748.96,-371 773.28,-351.1 804.47,-341.16 835.67,-336.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="836.06,-340.03 845.55,-335.31 835.19,-333.08 836.06,-340.03"/>
+</g>
+<!-- NewLaunch.NewLaunch_Amount_Above_Amount_For_Liquidity -->
+<g id="node24" class="node" pointer-events="visible" data-name="NewLaunch.NewLaunch_Amount_Above_Amount_For_Liquidity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-389" rx="220.57" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-384.8" font-family="Times,serif" font-size="14.00">NewLaunch_Amount_Above_Amount_For_Liquidity</text>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.NewLaunch_Amount_Above_Amount_For_Liquidity -->
+<g id="edge36" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.NewLaunch_Amount_Above_Amount_For_Liquidity">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M545.39,-502.88C593.73,-504.93 662.53,-500.98 712.96,-470 737.53,-454.9 724.4,-431.14 748.96,-416 756.13,-411.58 763.68,-407.72 771.5,-404.35"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="772.71,-407.64 780.73,-400.72 770.15,-401.12 772.71,-407.64"/>
+</g>
+<!-- NewLaunch.INonfungiblePositionManager -->
+<g id="node25" class="node" pointer-events="visible" data-name="NewLaunch.INonfungiblePositionManager">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-443" rx="129.09" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-438.8" font-family="Times,serif" font-size="14.00">INonfungiblePositionManager</text>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;NewLaunch.INonfungiblePositionManager -->
+<g id="edge39" class="edge" data-name="NewLaunch.addLiquidity-&gt;NewLaunch.INonfungiblePositionManager">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M544.9,-490.54C620.5,-482.06 754.99,-466.98 852.23,-456.07"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="852.54,-459.56 862.09,-454.96 851.76,-452.6 852.54,-459.56"/>
+</g>
+<!-- ILaunchFactory.getLaunchAmountForLiquidity -->
+<g id="node29" class="node" pointer-events="visible" data-name="ILaunchFactory.getLaunchAmountForLiquidity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="969.74" cy="-196" rx="132.61" ry="18"/>
+<text text-anchor="middle" x="969.74" y="-191.8" font-family="Times,serif" font-size="14.00">getLaunchAmountForLiquidity</text>
+</g>
+<!-- NewLaunch.addLiquidity&#45;&gt;ILaunchFactory.getLaunchAmountForLiquidity -->
+<g id="edge35" class="edge" data-name="NewLaunch.addLiquidity-&gt;ILaunchFactory.getLaunchAmountForLiquidity">
+
+<path fill="none" stroke="white" stroke-width="2" d="M539.94,-506.93C591.09,-513.29 667.49,-513.51 712.96,-470 784.22,-401.8 682.13,-323.56 748.96,-251 770.42,-227.69 800.14,-213.61 830.79,-205.25"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="831.23,-208.75 840.09,-202.94 829.54,-201.95 831.23,-208.75"/>
+</g>
+<!-- key -->
+<g id="node30" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="184.83,-1198 54.83,-1198 54.83,-1110 184.83,-1110 184.83,-1198"/>
+<text text-anchor="start" x="104.47" y="-1179.4" font-family="Times,serif" font-size="14.00">Internal Call</text>
+<text text-anchor="start" x="100.58" y="-1159.4" font-family="Times,serif" font-size="14.00">External Call</text>
+<text text-anchor="start" x="78.03" y="-1139.4" font-family="Times,serif" font-size="14.00">Defined Contract</text>
+<text text-anchor="start" x="64.43" y="-1119.4" font-family="Times,serif" font-size="14.00">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node31" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="513.31,-1198 459.31,-1198 459.31,-1110 513.31,-1110 513.31,-1198"/>
+<text text-anchor="start" x="476.31" y="-1179.4" font-family="Times,serif" font-size="14.00">   </text>
+<text text-anchor="start" x="476.31" y="-1159.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="#445773" stroke="none" points="474.31,-1134 474.31,-1154 499.31,-1154 499.31,-1134 474.31,-1134"/>
+<text text-anchor="start" x="476.31" y="-1139.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="none" stroke="#e8726d" points="476.31,-1116 476.31,-1132 497.31,-1132 497.31,-1116 476.31,-1116"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge44" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M177.83,-1184C304.79,-1184 339.69,-1184 460.54,-1184"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="460.28,-1187.5 470.28,-1184 460.28,-1180.5 460.28,-1187.5"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge45" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M177.83,-1164C304.79,-1164 339.69,-1164 460.54,-1164" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="460.28,-1167.5 470.28,-1164 460.28,-1160.5 460.28,-1167.5"/>
+</g>
+</g>
+</svg>
